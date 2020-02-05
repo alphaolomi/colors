@@ -1,12 +1,23 @@
 {
   "name": "colors",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "A simple color lib",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "lib",
+    "module"
+  ],
+  "author": "Alpha Olomi <hello@alphaolomi.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphaolomi/colors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alphaolomi/colors/issues"
+  },
+  "homepage": "https://github.com/alphaolomi/colors#readme"
 }
